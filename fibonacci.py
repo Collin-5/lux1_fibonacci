@@ -7,3 +7,4 @@ def isFibonacci(num):
     return i*i == num
 
 print(isFibonacci(4))
+
